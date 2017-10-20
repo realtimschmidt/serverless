@@ -62,13 +62,14 @@ var videoController = {
     connectToFirebase: function () {
         var that = this;
 
-        /* PASTE CONFIG HERE */
-        // var config = {
-        //   apiKey: "",
-        //   authDomain: "",
-        //   databaseURL: "",
-        //   storageBucket: "",
-        // };
+        var config = {
+          apiKey: "AIzaSyAglIqS7ONYmVSWZu4dIqg_e7Q_Eq1xBdw",
+          authDomain: "serverless-course-96265.firebaseapp.com",
+          databaseURL: "https://serverless-course-96265.firebaseio.com",
+          projectId: "serverless-course-96265",
+          storageBucket: "serverless-course-96265.appspot.com",
+          messagingSenderId: "889216812151"
+        };
 
         firebase.initializeApp(config);
 

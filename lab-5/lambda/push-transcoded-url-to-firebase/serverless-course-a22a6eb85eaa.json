@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "serverless-course-96265",
+  "private_key_id": "a22a6eb85eaac07479c5e3c2e7848e42f2e0453c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbhKlpFtdjcZ9g\nUhzsDKISkeB6WqdT3gstkNPQl9jr0jgwKaxthkGqPCpp3hDp9xTILPkYcojOnroc\neFT8kd0GH2FbCMzze1M7CaSYHxDujhQ9gsFcuosXgxsH05hJczyjQXfj/wItI8V+\nmCKbyHpn2y82GbzPjT45ENKN3pTtRNwoIp95tLfqFFc2oYZm/5dwDEpfWRaNewRx\nQ4gUPvZKIICNM5+h1M/KCKIewVba98jUmxdvnaeqb9GdxONcIJH52lenQQwI7BbZ\nfxXgpz+Yoknq5bNOl4Ppq30Rh0HrJfq+PhmO2Njx81T4+lxX5j8jU7NihIOXywkU\nqbDPfgEdAgMBAAECggEAI1e1/1+1QdCB2Yw3re5eC83Sn8PH2J+y1x9df79uiQM8\niTeDS92xwRwMwIP6wI0KEEbmMiffTuOUJKG1ILQOcJSDlcJtf1z0yIszuG2A9dHc\nqDD1vBrZvtVo+HGeH30cl/ZqJmqe5j7FpHQzE0evh7gwZcFaHyn4bNQVoa+mlTgR\nBYp/+qgB5wdSyXaMp6YIxnlTnBgfStALWE16DqXxTJN5PG7T9RMlKljU2kP4hrUz\nAwc3sfStkTcqXEEcuxT/BRJWZLpg+LZusH5LfQj+DC1SGpFcoP1u2M2y3g7wDRjo\nBqYGY98JBtwynYSGM9Y5JHf9/NnRS8/X7b0ni6tnuQKBgQDJTQB8sRMnWtG0PImK\n82UX+pdzfFtozJ6yNZPvhHqSYlBJfW4HpjyNnWmkLl4d9hbJJnVq6MQ0dP+JgNZV\nPsCXpzewfBRk5jzXwnYtND0K729A2UCNSg14/f0Q4M0Am387KhXA039mXxEh0FHu\nPLixsngHPRGeBsXfDpFmJR7NaQKBgQDFxugQgEs8HvKB5JS1PN9RPBabVIZpBbUU\n5ziGjN7zmbIlrVh3X61GmtDpixUDpCo40KCi00ENhh319ClRe8qR7pwdCGXHidNH\ng3oPgDGV7Eih1B/COobomHivNBzb4JxRMZtgCM5VuHMGjAATCSTu0HHjF32pqrtN\nJ9AWOgd7lQKBgQDJLlXgSLCV0mRmt2HXJu3QCzg1yQEqOeYYwQc6h7JgfjUzXVIL\n/w3hkoKz/Us+smWPXwpWcI82xf9lkweiZnbgmdREY52WQaxpDgZBo0WmmikcLIQh\nMPNKCr1SkvkPNFjx7luTPUzEKRrcKnDXooQLxAvFYDktMCOti8ewyESCkQKBgAJr\nlrds+n632jvgsjktj4YM+DHabPKoETk6QyTSYIAWp2lyn5yGXTZ5+oiBHTa4MZQU\naYLUlv01YPR7km3e1/HFO7/XNHempiE/6KR76x9sjs78K49S7Ae4pfFu79N5AjC0\nLLSWJwBBi5bO68lP2VXa0yn2RaFn53bgP9mlyCWpAoGAc2U5yqeiRaSedjz05Wb7\n+ATX+KOxTP1KJxEis9L3xs9wF1XNLrE21XGrrDisDUNpktViTmsc6vhUKkkd6mmo\nPcMSScN+IlwHURGz+pbluJGA/2yV9stz7k5cTj2i9wE0XWZq0T395usT8LErH/KV\nyMOgz96PyfTugecpFEMo/UQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "serverless-video-site-tschmidt@serverless-course-96265.iam.gserviceaccount.com",
+  "client_id": "103377923743021359405",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/serverless-video-site-tschmidt%40serverless-course-96265.iam.gserviceaccount.com"
+}

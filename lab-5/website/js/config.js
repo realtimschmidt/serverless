@@ -1,8 +1,8 @@
 var configConstants = {
     auth0: {
-        domain: 'YOUR_AUTH0_DOMAIN_HERE',
-        clientId: 'YOUR_AUTH0_CLIENT_ID_HERE'
+      domain: 'realtimschmidt.auth0.com',
+      clientId: 'aJD4GrVxCUDeiSjWxLr4Hm-BtvUgow-R'
     },
-    apiBaseUrl: 'YOUR_API_BASE_URL_HERE_NO_TRAILING_SLASH',
-    firebaseUrl: 'YOUR_FIRE_BASE_URL_HERE_NO_TRAILING_SLASH'
+    apiBaseUrl: 'https://rv42oijwae.execute-api.us-east-1.amazonaws.com/dev',
+    firebaseUrl: ' https://serverless-course-96265.firebaseio.com/'
 };
